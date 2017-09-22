@@ -1,0 +1,10 @@
+export const Base = '/car'
+export const Save = `${Base}/Save`
+export const Edit = `${Base}/Edit`
+export const Get = `${Base}/Get`
+export const Item = `${Base}/Item`
+export const Fix = `${Base}/Fix`
+export const Query = `${Base}/Query`
+export const Total = `${Base}/Total`
+export const CheckNumberForAdd = `${Base}/CheckNumberForAdd`
+export const CheckNumberForEdit = `${Base}/CheckNumberForEdit`
